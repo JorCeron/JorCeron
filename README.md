@@ -9,7 +9,7 @@
 | ------ | ------ | 
 | pwd | Para encontrar la ruta de tu directorio de trabajo actual. |
 | cd | Para navegar por los archivos y directorios de Linux. | 
-| ls | se usa para ver el contenido de un directorio|
+| ls | Se usa para ver el contenido de un directorio|
 | cat | Es uno de los comandos más utilizados en Linux | 
 | mkdir | Nos permite crear varios directorios de forma simultanea. |
 | cp | Para copiar archivos o directorios y su contenido |
