@@ -2,7 +2,7 @@
 ## Master : **_Guillermo Rodas_**
 ## Create: **_Jorge Ceron_** 
 ### Practica No.1
-**_Creación de un archivo README y subirlo a github_.**
+**_Creación de un archivo README y subirlo a github con Markdown_.**
 
 ## Comandos de terminal Ubuntu
 | Comando | ¿Para que sirve ? |
