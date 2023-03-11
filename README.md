@@ -1,16 +1,26 @@
-### Hi there 👋
+# **Bootcamp Javascript Full - Satck**
+## Master : **_Guillermo Rodas_**
+## Create: **_Jorge Ceron_** 
+### Practica No.1
+**_Creación de un archivo README y subirlo a github_.**
 
-<!--
-**JorCeron/JorCeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Comandos de terminal Ubuntu
+| Comando | ¿Para que sirve ? |
+| ------ | ------ | 
+| pwd | Para encontrar la ruta de tu directorio de trabajo actual. |
+| cd | Para navegar por los archivos y directorios de Linux. | 
+| ls | se usa para ver el contenido de un directorio|
+| cat | Es uno de los comandos más utilizados en Linux | 
+| mkdir | Nos permite crear varios directorios de forma simultanea. |
+| cp | Para copiar archivos o directorios y su contenido |
+| touch | permite crear un archivo vacío o generar y modificar una marca de tiempo.|
 
-Here are some ideas to get you started:
+## > Comandos alias
+|Comandos|
+|------|
+|alias npmd=npm run dev|
+|alias npms=npm start| 
+|alias rm=trash|
+|alias cl=clear|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
